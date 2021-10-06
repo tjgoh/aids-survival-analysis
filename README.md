@@ -8,5 +8,5 @@ Multi-state modelling of CD4 count and survival consists of defining several liv
 
 Joint modelling of CD4 count and survival can be defined by linking a model for the change of CD4 count with a model for survival. The link is based on the use of random effects. 
 
-Multi-state models provide a substantial opportunity to gain a deeper understanding of the disease process, and how it can change over time. This project aims to introduce this framework and demonstrate its use by applying it to a dataset. It is also briefly compared with the joint modelling framework. The full report can be found [here](https://github.com/tjgoh/aids-survival-analysis/blob/main/thesis-write-up.pdf).
+Multi-state models provide a substantial opportunity to gain a deeper understanding of the disease process, and how it can change over time. This project aims to introduce this framework and demonstrate its use by applying it to a dataset. It is also briefly compared with the joint modelling framework. The full report can be  found [here](https://github.com/tjgoh/aids-survival-analysis/blob/main/thesis.pdf).
 
